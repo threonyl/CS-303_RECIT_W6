@@ -1,4 +1,4 @@
-module FA_cs303_tb;
+module FA_cs303_tb();
 
 reg x,y,z;  // Inputs are registers.
 wire S,C;   // Outputs are wires.
